@@ -1,0 +1,28 @@
+/*
+fu(a,X,f(g(Y)))       fu(V,h(2,V),f(V)).
+V=a
+fu(a,X,f(g(Y)))       fu(a,h(2,a),f(a)).
+X=h(z,a)
+fu(a,h(z,a),f(g(Y)))       fu(a,h(z,a),f(a)).
+g(Y) nie da sie uzgodnicz z a
+
+
+fu(a,X,f(g(Y)))       fu(Y,f(Z),f(Z)).
+
+Y=a
+X=f(z)
+Z=g(a)
+fu(a,f(g(a)),f(g(a))
+
+?- fu(a,X,f(g(Y)))=fu(Y,f(Z),f(Z)).
+X = f(g(a)),
+Y = a,
+Z = g(a).
+
+fu(f(X),Y,a) fu(f(g(Y),c,Z)
+X=g(a)
+Y=c
+Z=a
+fu(f(g(a),c,a)=fu(f(g(a),c,a).
+*/
+

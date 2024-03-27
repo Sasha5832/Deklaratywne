@@ -1,0 +1,3 @@
+dziadek(karol,X).
+dziadek(karol,X):-ojciec(karol),Z1),dziecko(X,Z1).
+ojciec(karol,Z1), dziecko(X,Z1).
