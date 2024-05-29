@@ -1,0 +1,5 @@
+1. typ i ogólny typ dla całej klasy ogólny i szególny
+2. różne typy (bool napisy)
+3. definicje warunkowe
+4. 3 sposoby definijowania funkji dla list (jedna z ostatniego cwiczeniai)
+5. operatory dla list po kroku wyliczyc wyrażenia 
